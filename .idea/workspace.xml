@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7a2bf12-61fb-4297-ac98-9c207fd4ce0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WmxHf0YnB3Fgw4sytpT06DsUuw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java/krt/tools" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="TddMainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;krt.tools.copypast.TDD.smevInformationStatusMinsvyaz.TddMainTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TddMainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7a2bf12-61fb-4297-ac98-9c207fd4ce0d" name="Default Changelist" comment="" />
+      <created>1579768484314</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579768484314</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="189" width="806" height="678" key="#Project_Structure" timestamp="1579768501162">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="555" y="189" width="806" height="678" key="#Project_Structure/0.0.1920.1053@0.0.1920.1053" timestamp="1579768501162" />
+    <state x="459" y="446" width="998" height="164" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1579769813742">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="459" y="446" width="998" height="164" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1579769813742" />
+    <state x="634" y="147" width="648" height="761" key="#excel.xslt" timestamp="1579791293155">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="634" y="147" width="648" height="761" key="#excel.xslt/0.0.1920.1053@0.0.1920.1053" timestamp="1579791293155" />
+    <state x="741" y="285" width="430" height="485" key="FileChooserDialogImpl" timestamp="1579791284580">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="741" y="285" width="430" height="485" key="FileChooserDialogImpl/0.0.1920.1053@0.0.1920.1053" timestamp="1579791284580" />
+    <state width="1874" height="279" key="GridCell.Tab.0.bottom" timestamp="1579791946732">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1579791946732" />
+    <state width="1874" height="279" key="GridCell.Tab.0.center" timestamp="1579791946731">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="279" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1579791946731" />
+    <state width="1874" height="279" key="GridCell.Tab.0.left" timestamp="1579791946731">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="279" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1579791946731" />
+    <state width="1874" height="279" key="GridCell.Tab.0.right" timestamp="1579791946731">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="279" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1579791946731" />
+    <state x="768" y="308" width="380" height="440" key="chooseDestDirectoryDialog" timestamp="1579782116929">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="768" y="308" width="380" height="440" key="chooseDestDirectoryDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1579782116929" />
+    <state x="653" y="355" key="com.intellij.ide.util.TipDialog" timestamp="1579772288618">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="653" y="355" key="com.intellij.ide.util.TipDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1579772288618" />
+  </component>
+</project>
